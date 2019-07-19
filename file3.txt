@@ -1,2 +1,3 @@
 another_folder's file. file2.
 first commit
+second commit
